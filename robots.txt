@@ -1,0 +1,4 @@
+User-agent: * 
+Host: xn--80aaajkrbpbdbc7azbeekejmc6t.xn--p1ai
+Sitemap: http://xn--80aaajkrbpbdbc7azbeekejmc6t.xn--p1ai/sitemap.xml
+
